@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning about rare diseases (https://github.com/laiasubirats/rarediseases) (https://github.com/laiasubirats/rarediseasesontology)
 - 👯 I’m looking to collaborate on citizen science: See water color map (https://laiasubirats.github.io/citclops-fnob/color.html) (https://github.com/laiasubirats/citclops-bigml)
 - 💬 Ask me about diabetes prediction (https://github.com/laiasubirats/healthforecast)
-- 😄 Teaching: I am a mentor at IT academy (https://github.com/laiasubirats/Data-Science)
+- 😄 Teaching: I am a mentor at IT Academy (https://github.com/laiasubirats/Data-Science)
 - 📫 How to reach me: (https://sites.google.com/site/laiasubirats/)
 
 
